@@ -1,0 +1,6 @@
+{
+    "jobFrequency" : 60,
+    "apiUrl" : "https://api.myjobticket.com/api/Job/",
+    "token" : "FC3E4D66-DF7C-4CB0-AE4C-805741C10E42"
+
+}
